@@ -5,4 +5,4 @@
 layout: default
 ---
 
-## test
+![Lucky 13 Recruitment!](/assets/images/info-recruitment.png "Lucky 13 Recruitment")
